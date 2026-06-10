@@ -10,7 +10,7 @@ I am Computer Engineering student @ **ADA University** 28 — obsessed with Data
 ## 🛠 Stack
 `Python` `Pandas` `NumPy` `Matplotlib` `PostgreSQL` `VS Code` `Git`
  
-## 🚀 Projects
+## 🚀 Projects 
 - **Blackjack Monte Carlo Sim** — ran ~2.4 Billion hands, validated real house-edge stats
 - **Ares Base** — Java colony simulation (team project, Swing GUI)
 ## 📫 Reach me
