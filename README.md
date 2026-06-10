@@ -2,7 +2,7 @@
  
 I am Computer Engineering student @ **ADA University** 28 — obsessed with Data Science and building things that actually work and where I create valuable outputs.
  
-## 🧠 What I do
+## 🧠 What I do here
 - Turn raw data into insights with **Python**
 - Query and wrangle with **SQL**
 - Build simulations with **Python**
