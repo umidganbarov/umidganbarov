@@ -15,6 +15,7 @@ I am Computer Engineering student @ **ADA University** 28 — obsessed with Data
 - **Ares Base** — Java colony simulation (team project, Swing GUI)
 ## 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/umid-ganbarov-ba5081347/)
+[mail]: uganbarov23846@ada.edu.az
 
  
 > *"Data scientist in training. Give me a dataset and I'll find something interesting."*
