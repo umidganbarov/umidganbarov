@@ -8,7 +8,7 @@ I am Computer Engineering student @ **ADA University** 28 — obsessed with Data
 - Build simulations with **Python**
 - Currently leveling up: `Mastering my skills with projects`
 ## 🛠 Stack
-`Python` `Pandas` `NumPy` `Matplotlib` `PostgreSQL` `VS Code` `Git`
+`Python` `Pandas` `NumPy` `Matplotlib` `PostgreSQL` `VS Code` `GitHub`
  
 ## 🚀 Projects 
 - **Blackjack Monte Carlo Sim** — ran ~2.4 Billion hands, validated real house-edge stats
